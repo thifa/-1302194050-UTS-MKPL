@@ -17,6 +17,7 @@ public class Employee {
 	private int yearJoined;
 	private int monthJoined;
 	private int dayJoined;
+	private LocalDate entryJoined;
 	private int monthWorkingInYear;
 	
 	private boolean isForeigner;
